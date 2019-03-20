@@ -20,14 +20,9 @@
 
 Установка из Ubuntu:
 
-1. Создать папку openvpn
+1. Копировать фийлы из репозитария в папку openvpn
 
-sudo mkdir /openvpn
-sudo cd /openvpn
-
-2. Копировать фийлы из репозитария в папку openvpn
-
-sudo git clone https://github.com/Microdrive/openconfig
+sudo git clone https://github.com/Microdrive/openconfig /openvpn
 
 3. Установить OpenVPN 
 
